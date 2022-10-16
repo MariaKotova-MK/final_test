@@ -1,0 +1,15 @@
+C:\GeekBrains\Final_test\FT_C#\bin\Debug\net6.0\FT_C#.exe
+C:\GeekBrains\Final_test\FT_C#\bin\Debug\net6.0\FT_C#.deps.json
+C:\GeekBrains\Final_test\FT_C#\bin\Debug\net6.0\FT_C#.runtimeconfig.json
+C:\GeekBrains\Final_test\FT_C#\bin\Debug\net6.0\FT_C#.dll
+C:\GeekBrains\Final_test\FT_C#\bin\Debug\net6.0\FT_C#.pdb
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.csproj.AssemblyReference.cache
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.AssemblyInfoInputs.cache
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.AssemblyInfo.cs
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.dll
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\refint\FT_C#.dll
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.pdb
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\FT_C#.genruntimeconfig.cache
+C:\GeekBrains\Final_test\FT_C#\obj\Debug\net6.0\ref\FT_C#.dll
